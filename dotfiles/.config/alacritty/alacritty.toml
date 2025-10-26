@@ -1,0 +1,9 @@
+[env]
+TERM = "screen-256color"
+
+[window]
+decorations = "None"
+startup_mode = "Fullscreen"
+
+[general]
+import = ["~/.config/alacritty/catppuccin-macchiato.toml"]
