@@ -7,6 +7,3 @@ startup_mode = "Fullscreen"
 
 [general]
 import = ["~/.config/alacritty/catppuccin-macchiato.toml"]
-
-[terminal]
-shell="zsh"
